@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/dependency_maps
+END
+cache_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/dependency_maps/cache_deps.php
+END
+mime_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/dependency_maps/mime_deps.php
+END
+transport_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/dependency_maps/transport_deps.php
+END

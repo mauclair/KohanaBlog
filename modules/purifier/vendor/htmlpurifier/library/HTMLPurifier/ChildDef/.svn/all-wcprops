@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/ChildDef
+END
+Custom.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/ChildDef/Custom.php
+END
+Chameleon.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/ChildDef/Chameleon.php
+END
+Empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/ChildDef/Empty.php
+END
+Required.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/ChildDef/Required.php
+END
+StrictBlockquote.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/ChildDef/StrictBlockquote.php
+END
+Optional.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/ChildDef/Optional.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/ChildDef/Table.php
+END

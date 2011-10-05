@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library
+END
+HTMLPurifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier.php
+END
+HTMLPurifier.safe-includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier.safe-includes.php
+END
+HTMLPurifier.kses.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier.kses.php
+END
+HTMLPurifier.includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier.includes.php
+END
+HTMLPurifier.auto.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier.auto.php
+END
+HTMLPurifier.autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier.autoload.php
+END
+HTMLPurifier.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier.func.php
+END
+HTMLPurifier.path.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier.path.php
+END

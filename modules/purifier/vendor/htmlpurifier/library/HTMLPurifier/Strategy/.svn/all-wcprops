@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/Strategy
+END
+FixNesting.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/Strategy/FixNesting.php
+END
+MakeWellFormed.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/Strategy/MakeWellFormed.php
+END
+ValidateAttributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/Strategy/ValidateAttributes.php
+END
+Composite.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/Strategy/Composite.php
+END
+RemoveForeignElements.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/Strategy/RemoveForeignElements.php
+END
+Core.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/Strategy/Core.php
+END

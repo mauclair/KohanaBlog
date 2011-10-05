@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime
+END
+EmbeddedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/EmbeddedFile.php
+END
+SimpleHeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/SimpleHeaderFactory.php
+END
+EncodingObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/EncodingObserver.php
+END
+SimpleMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/SimpleMessage.php
+END
+SimpleMimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/SimpleMimeEntity.php
+END
+CharsetObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/CharsetObserver.php
+END
+HeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/HeaderSet.php
+END
+ParameterizedHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/ParameterizedHeader.php
+END
+ContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/ContentEncoder.php
+END
+SimpleHeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/SimpleHeaderSet.php
+END
+MimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/MimePart.php
+END
+HeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/HeaderFactory.php
+END
+MimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/MimeEntity.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/Message.php
+END
+HeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/HeaderEncoder.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/Header.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Mime/Attachment.php
+END

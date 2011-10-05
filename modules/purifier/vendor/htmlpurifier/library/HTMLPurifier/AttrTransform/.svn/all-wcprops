@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform
+END
+Nofollow.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/Nofollow.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/Input.php
+END
+SafeParam.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/SafeParam.php
+END
+BdoDir.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/BdoDir.php
+END
+SafeObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/SafeObject.php
+END
+ScriptRequired.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/ScriptRequired.php
+END
+BoolToCSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/BoolToCSS.php
+END
+SafeEmbed.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/SafeEmbed.php
+END
+NameSync.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/NameSync.php
+END
+ImgRequired.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/ImgRequired.php
+END
+Border.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/Border.php
+END
+Textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/Textarea.php
+END
+Background.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/Background.php
+END
+Name.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/Name.php
+END
+EnumToCSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/EnumToCSS.php
+END
+Length.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/Length.php
+END
+Lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/Lang.php
+END
+BgColor.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/BgColor.php
+END
+ImgSpace.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/library/HTMLPurifier/AttrTransform/ImgSpace.php
+END

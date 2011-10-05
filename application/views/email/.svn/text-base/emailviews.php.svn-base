@@ -1,0 +1,1 @@
+<p>Перейдите по ссылке <a href='http://yetanotherblog.pp.ua/auth/checkcode/<?=$genpass?>'>http://yetanotherblog.pp.ua/auth/checkcode/<?=$genpass?></a></p>

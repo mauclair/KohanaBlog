@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift
+END
+mime_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/mime_types.php
+END
+swift_required.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/swift_required.php
+END
+swift_init.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/swift_init.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/preferences.php
+END

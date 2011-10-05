@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/levjke_kohanablog/!svn/ver/1/modules/database/classes/database
+END
+exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/levjke_kohanablog/!svn/ver/1/modules/database/classes/database/exception.php
+END
+result.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/levjke_kohanablog/!svn/ver/1/modules/database/classes/database/result.php
+END
+expression.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/levjke_kohanablog/!svn/ver/1/modules/database/classes/database/expression.php
+END
+pdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/levjke_kohanablog/!svn/ver/1/modules/database/classes/database/pdo.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/levjke_kohanablog/!svn/ver/1/modules/database/classes/database/mysql.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/levjke_kohanablog/!svn/ver/1/modules/database/classes/database/query.php
+END

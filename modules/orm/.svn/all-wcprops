@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/levjke_kohanablog/!svn/ver/1/modules/orm
+END
+auth-schema-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/levjke_kohanablog/!svn/ver/2/modules/orm/auth-schema-mysql.sql
+END
+auth-schema-postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/levjke_kohanablog/!svn/ver/2/modules/orm/auth-schema-postgresql.sql
+END

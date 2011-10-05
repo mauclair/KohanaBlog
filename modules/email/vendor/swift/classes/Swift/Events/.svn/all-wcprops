@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events
+END
+SendEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/SendEvent.php
+END
+SendListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/SendListener.php
+END
+ResponseEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/ResponseEvent.php
+END
+SimpleEventDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/SimpleEventDispatcher.php
+END
+TransportChangeEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/TransportChangeEvent.php
+END
+ResponseListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/ResponseListener.php
+END
+TransportChangeListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/TransportChangeListener.php
+END
+EventObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/EventObject.php
+END
+TransportExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/TransportExceptionEvent.php
+END
+CommandEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/CommandEvent.php
+END
+TransportExceptionListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/TransportExceptionListener.php
+END
+Event.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/Event.php
+END
+CommandListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/CommandListener.php
+END
+EventListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/EventListener.php
+END
+EventDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/levjke_kohanablog/!svn/ver/1/modules/email/vendor/swift/classes/Swift/Events/EventDispatcher.php
+END
