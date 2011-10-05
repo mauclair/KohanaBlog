@@ -2,6 +2,7 @@
 
 class Model_User extends Model_Auth_User {
 
+//правила валидации
 	public function rules()
 	{
 		return array(

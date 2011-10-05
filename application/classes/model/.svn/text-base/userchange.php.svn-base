@@ -5,7 +5,7 @@ class Model_Userchange extends ORM
 
 	protected $_table_name = 'users';
 	protected $errors = array();
-
+    //правила валидации
 	public function rules()
 	{
 			return array(
@@ -16,7 +16,7 @@ class Model_Userchange extends ORM
 				),
 			);    
 	}
-	
+    //проверка на уникальность имени пользователя	
 	public function username_unique($username)
 	{
             $db = Database::instance();

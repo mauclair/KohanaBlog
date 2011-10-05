@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum
+END
+htmlpurifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/htmlpurifier.php
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/.gitignore
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/INSTALL
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/settings.php
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/Changelog
+END
+info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/info.txt
+END
+migrate.bbcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/migrate.bbcode.php
+END
+init-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/init-config.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/README
+END
+config.default.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/plugins/phorum/config.default.php
+END

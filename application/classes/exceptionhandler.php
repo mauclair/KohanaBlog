@@ -2,6 +2,7 @@
 
 class Exceptionhandler
 {
+    //контроллер меняющий вид 404 ошибки
     public static function handle(Exception $e)
     {
 		switch (get_class($e))

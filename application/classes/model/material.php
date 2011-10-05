@@ -5,6 +5,7 @@ class Model_Material extends ORM
 
 	protected $errors = array();
 
+	//описание связей между таблицами
 	protected $_belongs_to = array(
 		'tree' => array(
 			'foreign_key' => 'category_id',
@@ -21,7 +22,7 @@ class Model_Material extends ORM
 			'foreign_key' => 'materialid',
 		),
 	);
-
+	//возврат статей по id категории
 	public function getMaterialsByCategory($category_id)
 	{
 		return DB::select()
@@ -30,7 +31,7 @@ class Model_Material extends ORM
 			->execute()
 			->as_array();
 	}
-
+	//возврат статей для главной с лимитом и сдвигом начиная с конца таблицы
 	public function getMaterials($limit, $offset)
 	{
 		$taginfo['name']=array();
@@ -50,13 +51,13 @@ class Model_Material extends ORM
 			}
 		$result['categoryurl'][] = $post->tree->url;
 	 	$result['name'][] = $post->name;
-	 	$result['content'][] = $useful->preview($post->content);
+	 	$result['content'][] = $useful->preview($post->content);//запись превью поста (до ката)
 		$result['category'][] = $post->tree->name;
 		$result['ctime'][] = $post->ctime;
 		$result['mtime'][] = $post->mtime;
 		$result['tag'][] = $taginfo['name'];
 		$result['tagid'][] = $taginfo['id'];
-		$result['countcom'][] = $commodel->countcomments($post->id);
+		$result['countcom'][] = $commodel->countcomments($post->id);//подсчет количества комментариев
 		for ($i=0; $i<sizeof($taginfo['name']); $i++)
 		{
 			$taginfo['name'][$i]=NULL;
@@ -67,21 +68,20 @@ class Model_Material extends ORM
 	 	$result['count']['all'] = ORM::factory('material')->count_all();
 	 	return $result;
 	}
-	
+	//добавление новой статьи	
 	public function addMaterial($categoryId, $content, $name, $tags)
 	{
         $vData['tags'] = $tags;
         $vData['name'] = $name;
         $vData['content'] = $content;
         $validation = Validation::factory($vData);
+        //ограничения на название статьи, тэги и содержимое
         $validation->rule('name', 'not_empty');
         $validation->rule('name', 'min_length', array(':value', '3'));
         $validation->rule('name', 'max_length', array(':value', '100'));
 		$validation->rule('tags', 'not_empty');
 		$validation->rule('content', 'not_empty');
 		$validation->rule('content', 'min_length', array(':value', '100'));
-		//$validation->rule('tags', 'min_length', array(':value', '2'));
-        //$validation->rule('tags', 'max_length', array(':value', '100'));
 
         if(!$validation->check())
         {
@@ -90,20 +90,24 @@ class Model_Material extends ORM
         }        
 
 		$this->category_id = $categoryId;
+		//защита от XSS
 		$this->content = Security::xss_clean($content);
 		$this->name = Security::xss_clean($name);
+		//если нет ошибок - сохранить
 		$this->save();
-
+		//разделяем тэги
 		$tags_array = explode(",", $tags);		
 		$tagmodel = new Model_Tag;
+		//добавление тэгов в базу
 		$tag_ids = $tagmodel->addTag($tags_array);
 		$link = new Model_Tagsmaterial;
 		$mat_id = ORM::factory('material', array('name' => $name))->id;
+		//добавление связи между тэгами и статьей
 		$link->insertarray($mat_id, $tag_ids);
 
 		return TRUE;		
 	}
-
+	//вывод статьи по ее id
 	public function showMaterialById($id)
 	{
 		$useful = new Model_Useful;
@@ -129,13 +133,13 @@ class Model_Material extends ORM
 			}
 			$result['id'] = $material->id;
 			$result['ctime'] = $material->ctime;
-			$result['content'] = $useful->removeCutTag($material->content);
+			$result['content'] = $useful->removeCutTag($material->content); //удаление ката
 			$result['name'] = $material->name;
 			$result['category'] = $material->tree->name;
 			$result['categoryurl'] = $material->tree->url;
 			$result['tag'] = $taginfo;
 			$result['comment'] = $cominfo;
-			$result['count'] = $commodel->countcomments($material->id);
+			$result['count'] = $commodel->countcomments($material->id); //подсчет комментариев
 
 			return $result;
 		 }
@@ -144,7 +148,7 @@ class Model_Material extends ORM
 			return FALSE;
 		 }
 	}
-
+	//возвращает ошибки
 	public function getErrors()
     {
         return $this->errors;

@@ -4,7 +4,7 @@ class Model_Regcode extends ORM
 {
 
 protected $errors = array();
-
+//описание правил валидации
 	public function rules()
 	{
 			return array(
@@ -14,7 +14,7 @@ protected $errors = array();
 				),
 			);    
 	}
-	
+	//проверка на присвоение коду пользователя 	
 	public function bad_code($code)
     {
         $regcodetemp = ORM::factory('regcode', array('code'=>$code));
@@ -35,7 +35,7 @@ protected $errors = array();
 			return FALSE;
 		}
     }
-
+    //дизактивация кода => присвоение коду id пользователя
     public function disactive_code($code, $user_id)
     {
 
@@ -44,7 +44,7 @@ protected $errors = array();
          $regcodetemp->save();
 
     }
-
+    //возвращает ошибки
     public function get_errors()
     {
     	return $this->errors;

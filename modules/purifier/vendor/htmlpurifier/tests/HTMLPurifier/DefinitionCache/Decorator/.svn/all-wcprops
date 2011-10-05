@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DefinitionCache/Decorator
+END
+CleanupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DefinitionCache/Decorator/CleanupTest.php
+END
+MemoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DefinitionCache/Decorator/MemoryTest.php
+END

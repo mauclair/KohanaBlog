@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema
+END
+ValidatorTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/ValidatorTestCase.php
+END
+ValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/ValidatorTest.php
+END
+ValidatorAtomTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/ValidatorAtomTest.php
+END
+InterchangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/InterchangeTest.php
+END

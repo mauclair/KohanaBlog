@@ -2,7 +2,7 @@
 
 class Model_Useful
 {
-
+    //генерация пароля
 	public function generatePassword($number)
 	{
             //$number - кол-во символов в пароле
@@ -27,7 +27,7 @@ class Model_Useful
 		}
 		return $pass;
   	}
-
+    //отправка письма по почте
         public function sendemail($to, $from, $subject, $message, $html)
         {
                 try
@@ -42,8 +42,7 @@ class Model_Useful
                 }
         }
 
-        //USAGE: $this->removeCutTag($this->post['blog_post'])
-
+        //функция для вывода текста до ката
         public function preview($post)
     	{
         $post    = str_replace('&lt;!-- cut --&gt;', '<!-- cut -->', $post);
@@ -52,7 +51,7 @@ class Model_Useful
 
         return $preview;
     	}
-
+        //функция для удаление тэга ката из текста
     	public function removeCutTag($post)
     	{
         if (!(strpos($post, '&lt;!-- cut --&gt;') === false)) {

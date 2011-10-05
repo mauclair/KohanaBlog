@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive
+END
+valueAliasesAliasIsString.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/valueAliasesAliasIsString.vtest
+END
+typeExists.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/typeExists.vtest
+END
+valueAliasesAliasNotAllowed.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/valueAliasesAliasNotAllowed.vtest
+END
+descriptionNotEmpty.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/descriptionNotEmpty.vtest
+END
+defaultNullWithAllowed.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/defaultNullWithAllowed.vtest
+END
+valueAliasesNotAliasSelf.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/valueAliasesNotAliasSelf.vtest
+END
+defaultType.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/defaultType.vtest
+END
+allowedNotEmpty.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/allowedNotEmpty.vtest
+END
+defaultIsAllowed.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/defaultIsAllowed.vtest
+END
+valueAliasesRealAllowed.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/valueAliasesRealAllowed.vtest
+END
+aliasesDirectiveCollision.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/aliasesDirectiveCollision.vtest
+END
+typeDefined.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/typeDefined.vtest
+END
+ignoreNamespace.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/ignoreNamespace.vtest
+END
+typeWithValueAliasesIsStringType.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/typeWithValueAliasesIsStringType.vtest
+END
+valueAliasesRealIsString.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/valueAliasesRealIsString.vtest
+END
+unique.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/unique.vtest
+END
+aliasesAliasCollision.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/aliasesAliasCollision.vtest
+END
+typeWithAllowedIsStringType.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/typeWithAllowedIsStringType.vtest
+END
+allowedIsString.vtest
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchema/Validator/directive/allowedIsString.vtest
+END

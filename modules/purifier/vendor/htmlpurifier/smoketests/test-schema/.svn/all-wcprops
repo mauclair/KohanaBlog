@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema
+END
+Type.hash.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.hash.txt
+END
+Directive.Allowed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Directive.Allowed.txt
+END
+Type.text.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.text.txt
+END
+Type.nullbool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.nullbool.txt
+END
+Type.int.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.int.txt
+END
+Type.bool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.bool.txt
+END
+Type.itext.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.itext.txt
+END
+Directive.Deprecated.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Directive.Deprecated.txt
+END
+Directive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Directive.txt
+END
+Type.nullstring.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.nullstring.txt
+END
+Type.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.txt
+END
+Type.float.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.float.txt
+END
+Type.string.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.string.txt
+END
+Type.mixed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.mixed.txt
+END
+Type.lookup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.lookup.txt
+END
+Type.list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.list.txt
+END
+info.ini
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/info.ini
+END
+Type.istring.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/smoketests/test-schema/Type.istring.txt
+END

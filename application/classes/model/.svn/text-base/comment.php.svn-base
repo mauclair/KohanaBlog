@@ -4,7 +4,7 @@ class Model_Comment extends ORM
 {	
 
 	protected $errors = array();
-
+	//описание связей между таблицами
 	protected $_belongs_to = array(
 		'materials' => array(
 			'model'       => 'material',
@@ -15,17 +15,15 @@ class Model_Comment extends ORM
 			'foreign_key' => 'userid',
 			),
 	);
-
+	//подсчет комментариев для id статьи
 	public function countcomments($mat_id)
 	{
 		$commentcount = ORM::factory('comment')->where('materialid','=',$mat_id)->count_all();
 		return $commentcount;
 	}
-
+	//получение комментариев пользователя
 	public function getCommentsByUserid($userid)
 	{
-
-
 		$comm = ORM::factory('comment')->where('userid','=',$userid)->find_all();
 		$result = array();
 
@@ -48,15 +46,15 @@ class Model_Comment extends ORM
 		 }
 	}
 
-
+	//проверка и запись нового комментария
 	public function saveNewComment($userId, $textarea, $mat_id)
 	{
 		
         $vData['text'] = $textarea;
        
         $validation = Validation::factory($vData);
-        $validation->rule('text', 'not_empty');
-        $validation->rule('text', 'min_length', array(':value', '3'));
+        $validation->rule('text', 'not_empty');// текст комментария не пустой
+        $validation->rule('text', 'min_length', array(':value', '3'));//мин длина комментария 3
         if(!$validation->check())
         {
 			$this->errors = $validation->errors('matErrors');
@@ -65,13 +63,15 @@ class Model_Comment extends ORM
 	
 		$comment = ORM::factory('comment');
 		$comment->userid = $userId;
+		//проверка на XSS комментария
 		$comment->text = Security::xss_clean($textarea);
 		$comment->materialid = $mat_id; // $comment->materials->id;
+		//если нет ошибок - сохранение
 		$comment->save();
 
 		return TRUE;
 	}
-
+	//возвращает ошибки
 	public function getErrors()
     {
         return $this->errors;

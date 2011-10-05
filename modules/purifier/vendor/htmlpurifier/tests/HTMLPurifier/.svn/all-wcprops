@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier
+END
+AttrDefTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDefTest.php
+END
+URIFilterHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIFilterHarness.php
+END
+AttrTransformHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrTransformHarness.php
+END
+ConfigTest-finalize.ini
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigTest-finalize.ini
+END
+HTMLModuleHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLModuleHarness.php
+END
+ErrorsHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ErrorsHarness.php
+END
+DoctypeRegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DoctypeRegistryTest.php
+END
+Harness.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Harness.php
+END
+DefinitionCacheFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DefinitionCacheFactoryTest.php
+END
+ConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigTest.php
+END
+HTMLModuleManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLModuleManagerTest.php
+END
+EntityLookupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/EntityLookupTest.php
+END
+AttrTransformTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrTransformTest.php
+END
+UnitConverterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/UnitConverterTest.php
+END
+ElementDefTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ElementDefTest.php
+END
+TokenFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/TokenFactoryTest.php
+END
+URIDefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIDefinitionTest.php
+END
+HTMLModuleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLModuleTest.php
+END
+LanguageFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/LanguageFactoryTest.php
+END
+DefinitionTestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DefinitionTestable.php
+END
+AttrValidator_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrValidator_ErrorsTest.php
+END
+AttrDefHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDefHarness.php
+END
+URISchemeRegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URISchemeRegistryTest.php
+END
+ErrorCollectorEMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ErrorCollectorEMock.php
+END
+PropertyListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PropertyListTest.php
+END
+LengthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/LengthTest.php
+END
+LanguageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/LanguageTest.php
+END
+GeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/GeneratorTest.php
+END
+ConfigSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigSchemaTest.php
+END
+DefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DefinitionTest.php
+END
+EntityParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/EntityParserTest.php
+END
+VarParserHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/VarParserHarness.php
+END
+ComplexHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ComplexHarness.php
+END
+IDAccumulatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/IDAccumulatorTest.php
+END
+ConfigTest-create.ini
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigTest-create.ini
+END
+AttrTypesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrTypesTest.php
+END
+URITest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URITest.php
+END
+ErrorCollectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ErrorCollectorTest.php
+END
+DefinitionCacheHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DefinitionCacheHarness.php
+END
+PercentEncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PercentEncoderTest.php
+END
+InjectorHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/InjectorHarness.php
+END
+TagTransformTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/TagTransformTest.php
+END
+AttrCollectionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrCollectionsTest.php
+END
+ConfigTest-loadIni.ini
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ConfigTest-loadIni.ini
+END
+StringHashTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/StringHashTest.php
+END
+DefinitionCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/DefinitionCacheTest.php
+END
+URIParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIParserTest.php
+END
+HTMLDefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLDefinitionTest.php
+END
+EncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/EncoderTest.php
+END
+LexerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/LexerTest.php
+END
+TokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/TokenTest.php
+END
+URIHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIHarness.php
+END
+ContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ContextTest.php
+END
+URISchemeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URISchemeTest.php
+END
+ChildDefHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/ChildDefHarness.php
+END
+StrategyHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/StrategyHarness.php
+END
+StringHashParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/StringHashParserTest.php
+END
+HTMLT.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT.php
+END

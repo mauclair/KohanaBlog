@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/URI
+END
+EmailHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/URI/EmailHarness.php
+END
+HostTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/URI/HostTest.php
+END
+IPv4Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/URI/IPv4Test.php
+END
+IPv6Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/URI/IPv6Test.php
+END

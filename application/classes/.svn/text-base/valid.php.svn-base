@@ -1,5 +1,6 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 
+//контроллер наследующий дефолтный коханы и увеличивающий его функционал
 class Valid extends Kohana_Valid
 {
 	public static function check_id($value, $tablename)

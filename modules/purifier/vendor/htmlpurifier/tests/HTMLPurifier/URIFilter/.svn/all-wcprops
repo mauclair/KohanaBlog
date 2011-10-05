@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIFilter
+END
+MungeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIFilter/MungeTest.php
+END
+MakeAbsoluteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIFilter/MakeAbsoluteTest.php
+END
+DisableResourcesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIFilter/DisableResourcesTest.php
+END
+DisableExternalResourcesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIFilter/DisableExternalResourcesTest.php
+END
+DisableExternalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIFilter/DisableExternalTest.php
+END
+HostBlacklistTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/URIFilter/HostBlacklistTest.php
+END

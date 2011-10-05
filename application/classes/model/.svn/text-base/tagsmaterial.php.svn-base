@@ -3,9 +3,8 @@
 class Model_Tagsmaterial extends ORM
 {
 
-	//protected $_belongs_to = array('material' => array(), 'tag' => array());
 	protected $_table_name = "tags_materials";
-
+	//вставляет запись в таблицу с указанием связи между статьей и тэгами
 	public function insertarray($mat_id, $tag_ids)
 	{
 		

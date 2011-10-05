@@ -6,13 +6,14 @@ class Model_Myuser extends ORM
 	protected $_table_name = 'users';
 	protected $errors = array();
 
+	//описание связей между таблицами
 	protected $_has_many = array(
 		'comments' => array(
 			'model'       => 'comment',
 			'foreign_key' => 'userid',
 		),
 	);
-
+	//описание правил валидации
 	public function rules()
 	{
 			return array(
@@ -23,7 +24,7 @@ class Model_Myuser extends ORM
 				),
 			);    
 	}
-	
+	//проверка на уникальность имени пользователя	
 	public function username_unique($username)
 	{
             $db = Database::instance();
@@ -53,7 +54,7 @@ class Model_Myuser extends ORM
                     return TRUE;
             }
 	}
-	
+	//вывод имени и электронной почты текущего пользователя	
 	public function displayusername()
 	{
 		$nameemail = array();
@@ -65,37 +66,42 @@ class Model_Myuser extends ORM
 		$nameemail['email'] = $usertemp->email;
 		return $nameemail;
 	}
-
+	//получить имя пользователя по его id
 	public function getUsernameById($userId)
 	{
 
 		$usertemp = ORM::factory('myuser', array('id'=>$userId));
 		return $usertemp->username;
 	}
-
+	//получить id текущего пользователя
 	public function getId()
 	{
 		$auth = Auth::instance();
 		return $auth->get_user();
 	}
-
+	//проверка старого пароля при смене
 	public function checkOldPass($oldpass)
 	{
 		$auth = Auth::instance();
 		return $auth->check_password($oldpass);
 	}
-
+	//сохранение нового пароля
 	public function saveNewPass($oldpass, $newpass1, $newpass2)
 	{
 		$vData = array("oldpass" => $oldpass, "newpass1" => $newpass1, "newpass2" => $newpass2,);
 
 		$validation = Validation::factory($vData);
-        $validation->rule('oldpass', 'not_empty');
-        $validation->rule('oldpass', 'alpha_numeric');
-		$validation->rule('oldpass', array($this, 'checkOldPass'));
+		//правила валидации для старого и нового паролей
+        $validation->rule('oldpass', 'not_empty'); //не пустой
+        $validation->rule('oldpass', 'alpha_numeric');//только буквы и цифры
+        $validation->rule('oldpass', 'min_length', array(':value', '3'));//мин длина 3
+        $validation->rule('oldpass', 'max_length', array(':value', '64'));//макс длина 64
+		$validation->rule('oldpass', array($this, 'checkOldPass')); //существует ли
 		$validation->rule('newpass1', 'not_empty');
         $validation->rule('newpass1', 'alpha_numeric');
-		$validation->rule('newpass1', 'matches', array(':validation', 'newpass1', 'newpass2'));
+        $validation->rule('newpass1', 'min_length', array(':value', '3'));//мин длина 3
+        $validation->rule('newpass1', 'max_length', array(':value', '64'));//макс длина 64
+		$validation->rule('newpass1', 'matches', array(':validation', 'newpass1', 'newpass2')); //совпадают ли пароли
 
 		if(!$validation->check())
         {
@@ -107,17 +113,19 @@ class Model_Myuser extends ORM
 		$userId = $auth->get_user();
 		
 		$usertemp = ORM::factory('myuser', array('id'=>$userId));
+		//если нет ошибок хэшируем пароль и сохраняем
 		$usertemp->password = $auth->hash_password($newpass1);
 		$usertemp->save();
 
 		return TRUE;
 	}
-
+	// изменение имени пользователя
 	public function saveNewName($newname)
 	{
 		$vData1 = array("newname" => $newname,);
 
 		$validation = Validation::factory($vData1);
+		//проверка на не пустое поле и на то что только цифры и буквы
         $validation->rule('newname', 'not_empty');
         $validation->rule('newname', 'alpha_numeric');		
 
@@ -129,14 +137,14 @@ class Model_Myuser extends ORM
 
 		$auth = Auth::instance();
 		$userId = $auth->get_user();
-		
+		//если нет ошибок изменяем поле
 		$usertemp = ORM::factory('myuser', array('id'=>$userId));
 		$usertemp->username = $newname;
 		$usertemp->save();
 
 		return TRUE;
 	}
-
+	//возвращает ошибки
 	public function getErrors()
     {
         return $this->errors;

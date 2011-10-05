@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/VarParser
+END
+FlexibleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/VarParser/FlexibleTest.php
+END
+NativeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/VarParser/NativeTest.php
+END

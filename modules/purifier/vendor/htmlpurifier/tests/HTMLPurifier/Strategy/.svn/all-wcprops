@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy
+END
+ValidateAttributes_TidyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/ValidateAttributes_TidyTest.php
+END
+FixNesting_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/FixNesting_ErrorsTest.php
+END
+MakeWellFormed_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/MakeWellFormed_ErrorsTest.php
+END
+MakeWellFormed_InjectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/MakeWellFormed_InjectorTest.php
+END
+ValidateAttributes_IDTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/ValidateAttributes_IDTest.php
+END
+RemoveForeignElements_TidyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/RemoveForeignElements_TidyTest.php
+END
+FixNestingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/FixNestingTest.php
+END
+MakeWellFormedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/MakeWellFormedTest.php
+END
+ErrorsHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/ErrorsHarness.php
+END
+RemoveForeignElements_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/RemoveForeignElements_ErrorsTest.php
+END
+ValidateAttributesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/ValidateAttributesTest.php
+END
+CompositeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/CompositeTest.php
+END
+RemoveForeignElementsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/RemoveForeignElementsTest.php
+END
+CoreTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/Strategy/CoreTest.php
+END

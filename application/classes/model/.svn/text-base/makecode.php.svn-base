@@ -5,7 +5,7 @@ class Model_Makecode extends ORM
 
 protected $_table_name = 'regcodes';
 protected $errors = array();
-
+//описание правил для инвайт кода
 	public function rules()
 	{
 			return array(
@@ -14,7 +14,7 @@ protected $errors = array();
 			),);   
 	}
 	
-
+    //отправка кода на е-мэйл 
     public function send_code($email, $username, $genpass)
     {
     	$useful = new Model_Useful();
@@ -24,7 +24,7 @@ protected $errors = array();
         $useful->sendemail($email, $from, $subject, $message, TRUE);
         return TRUE;
     }
-
+    //возвращает ошибки
     public function get_errors()
     {
     	return $this->errors;

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/levjke_kohanablog/!svn/ver/1/modules/unittest
+END
+example.phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/levjke_kohanablog/!svn/ver/1/modules/unittest/example.phpunit.xml
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/levjke_kohanablog/!svn/ver/2/modules/unittest/bootstrap.php
+END
+bootstrap_all_modules.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/levjke_kohanablog/!svn/ver/2/modules/unittest/bootstrap_all_modules.php
+END
+tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/levjke_kohanablog/!svn/ver/1/modules/unittest/tests.php
+END
+init.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/levjke_kohanablog/!svn/ver/1/modules/unittest/init.php
+END
+README.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/levjke_kohanablog/!svn/ver/2/modules/unittest/README.markdown
+END

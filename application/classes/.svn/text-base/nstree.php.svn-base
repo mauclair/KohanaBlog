@@ -14,6 +14,8 @@ COLLATE='utf8_general_ci'
 ENGINE=InnoDB
 */
 
+//Класс по работе с категориями в древовидной форме наследования
+
 class NSTree
 {
 	protected $table = NULL;

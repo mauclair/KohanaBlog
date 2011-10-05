@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 
 class Mycontrollerlogin extends Controller_Template {
-
+	//контроллер для редиректа с auth. здесь записывается переменная в сессию
 	public function before()	
 	{
 		$session = Session::instance();

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML
+END
+BoolTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/BoolTest.php
+END
+IDTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/IDTest.php
+END
+MultiLengthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/MultiLengthTest.php
+END
+ColorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/ColorTest.php
+END
+NmtokensTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/NmtokensTest.php
+END
+FrameTargetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/FrameTargetTest.php
+END
+LengthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/LengthTest.php
+END
+LinkTypesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/LinkTypesTest.php
+END
+PixelsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/PixelsTest.php
+END
+ClassTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/ClassTest.php
+END

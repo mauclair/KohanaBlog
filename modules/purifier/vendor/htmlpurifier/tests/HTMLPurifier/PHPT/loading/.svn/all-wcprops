@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading
+END
+_autoload.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/_autoload.inc
+END
+path-includes-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/path-includes-autoload.phpt
+END
+auto.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto.phpt
+END
+error-auto-with-spl-nonstatic-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/error-auto-with-spl-nonstatic-autoload.phpt
+END
+auto-without-spl-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-without-spl-autoload.phpt
+END
+auto-includes.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-includes.phpt
+END
+_no-autoload.inc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/_no-autoload.inc
+END
+safe-includes.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/safe-includes.phpt
+END
+auto-with-spl-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-with-spl-autoload.phpt
+END
+auto-without-spl-with-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-without-spl-with-autoload.phpt
+END
+auto-with-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-with-autoload.phpt
+END
+standalone.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/standalone.phpt
+END
+standalone-with-prefix.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/standalone-with-prefix.phpt
+END
+standalone-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/standalone-autoload.phpt
+END
+path-includes.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/loading/path-includes.phpt
+END

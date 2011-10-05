@@ -7,59 +7,53 @@ tag.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/levjke_kohanablog/!svn/ver/15/application/classes/controller/tag.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/tag.php
 END
 account.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/levjke_kohanablog/!svn/ver/7/application/classes/controller/account.php
-END
-page.php
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/levjke_kohanablog/!svn/ver/1/application/classes/controller/page.php
+V 77
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/account.php
 END
 category.php
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svn/levjke_kohanablog/!svn/ver/17/application/classes/controller/category.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/category.php
 END
 netprav.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/levjke_kohanablog/!svn/ver/1/application/classes/controller/netprav.php
+V 77
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/netprav.php
 END
 auth.php
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svn/levjke_kohanablog/!svn/ver/19/application/classes/controller/auth.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/auth.php
 END
 materials.php
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svn/levjke_kohanablog/!svn/ver/19/application/classes/controller/materials.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/materials.php
 END
 ajax.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/levjke_kohanablog/!svn/ver/5/application/classes/controller/ajax.php
+V 74
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/ajax.php
 END
 main.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/levjke_kohanablog/!svn/ver/1/application/classes/controller/main.php
+V 74
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/main.php
 END
 comments.php
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svn/levjke_kohanablog/!svn/ver/20/application/classes/controller/comments.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/controller/comments.php
 END

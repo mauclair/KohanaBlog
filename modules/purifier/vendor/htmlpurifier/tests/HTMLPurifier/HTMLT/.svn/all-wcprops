@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT
+END
+secure-munge.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/secure-munge.htmlt
+END
+disable-uri.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/disable-uri.htmlt
+END
+blacklist-preserve.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/blacklist-preserve.htmlt
+END
+strict-blockquote-with-inline.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/strict-blockquote-with-inline.htmlt
+END
+script-dbl-comment.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/script-dbl-comment.htmlt
+END
+blacklist-remove.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/blacklist-remove.htmlt
+END
+script-comment.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/script-comment.htmlt
+END
+safe-object-embed-munge.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/safe-object-embed-munge.htmlt
+END
+id-name-mix.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/id-name-mix.htmlt
+END
+css-allowed-preserve.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/css-allowed-preserve.htmlt
+END
+css-allowed-remove.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/css-allowed-remove.htmlt
+END
+file-uri.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/file-uri.htmlt
+END
+script-cdata.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/script-cdata.htmlt
+END
+strict-blockquote.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/strict-blockquote.htmlt
+END
+name.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/name.htmlt
+END
+allowed-preserve.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/allowed-preserve.htmlt
+END
+basic.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/basic.htmlt
+END
+shift-jis-preserve-yen.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/shift-jis-preserve-yen.htmlt
+END
+allowed-remove.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/allowed-remove.htmlt
+END
+shift-jis-remove-yen.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/shift-jis-remove-yen.htmlt
+END
+strict-underline.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/strict-underline.htmlt
+END
+trusted-comments-required.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/trusted-comments-required.htmlt
+END
+safe-object-embed.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/safe-object-embed.htmlt
+END
+munge-extra.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/munge-extra.htmlt
+END
+inline-list-loop.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/inline-list-loop.htmlt
+END
+empty.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/empty.htmlt
+END
+inline-wraps-block.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/inline-wraps-block.htmlt
+END
+trusted-comments-table.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/trusted-comments-table.htmlt
+END
+double-youtube.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/double-youtube.htmlt
+END
+id-img.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/id-img.htmlt
+END
+script-bare.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/script-bare.htmlt
+END
+munge.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/munge.htmlt
+END
+trusted-comments.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/trusted-comments.htmlt
+END
+id-default.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/id-default.htmlt
+END
+script-ideal.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/script-ideal.htmlt
+END
+id-enabled.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/id-enabled.htmlt
+END
+whitespace-preserve.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/whitespace-preserve.htmlt
+END
+tidy-background.htmlt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/HTMLT/tidy-background.htmlt
+END

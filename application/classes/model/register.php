@@ -2,7 +2,7 @@
 
 class Model_Register
 {
-
+    //регистрация пользователя
 	public function reg($email, $regcodevalue, $role)	
 	{
 		$regcode = new Model_Regcode();
@@ -63,21 +63,23 @@ class Model_Register
 		}
 		
 	}
-
+    //восстановление пароля
         public function hochuNoviyParol($email)
 	{
             $usertemp = ORM::factory('myuser', array('username'=>$email));
-
+            //если такого имейла нет - выход
             if(!$usertemp->loaded())
             {
                 return FALSE;
             }
 
             $useful = new Model_Useful();
+            //генерация временного пароля
             $genpass = $useful->generatePassword(18);
 
             $usertemp->rempass = $genpass;
             $usertemp->save();
+            //сохранение временного пароля
 
             //Отправка эл. почты
             $from = 'authentication@yetanotherblog.pp.ua';
@@ -89,7 +91,7 @@ class Model_Register
 
             return TRUE;
         }
-
+        //обновление пароля при переходе с имейла
          public function obnovlenieparolia($code)
 	{
             $usertemp = ORM::factory('myuser', array('rempass'=>$code));

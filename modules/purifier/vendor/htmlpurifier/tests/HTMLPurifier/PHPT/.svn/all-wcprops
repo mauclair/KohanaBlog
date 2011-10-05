@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT
+END
+utf8.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/utf8.phpt
+END
+func.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/func.phpt
+END
+ze1_compatibility_mode.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/ze1_compatibility_mode.phpt
+END
+stub.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/stub.phpt
+END
+domxml.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/PHPT/domxml.phpt
+END

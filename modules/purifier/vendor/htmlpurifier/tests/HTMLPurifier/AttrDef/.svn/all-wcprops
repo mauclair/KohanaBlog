@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef
+END
+IntegerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/IntegerTest.php
+END
+URITest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/URITest.php
+END
+LangTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/LangTest.php
+END
+SwitchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/SwitchTest.php
+END
+EnumTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/EnumTest.php
+END
+TextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/TextTest.php
+END
+CSSTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/levjke_kohanablog/!svn/ver/1/modules/purifier/vendor/htmlpurifier/tests/HTMLPurifier/AttrDef/CSSTest.php
+END

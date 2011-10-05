@@ -6,84 +6,84 @@ END
 addrole.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/levjke_kohanablog/!svn/ver/1/application/classes/model/addrole.php
+V 72
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/addrole.php
 END
 tag.php
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svn/levjke_kohanablog/!svn/ver/19/application/classes/model/tag.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/tag.php
 END
 category.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/levjke_kohanablog/!svn/ver/5/application/classes/model/category.php
+V 73
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/category.php
 END
 tagsmaterial.php
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svn/levjke_kohanablog/!svn/ver/17/application/classes/model/tagsmaterial.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/tagsmaterial.php
 END
 material.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/levjke_kohanablog/!svn/ver/20/application/classes/model/material.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/material.php
 END
 user.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/levjke_kohanablog/!svn/ver/5/application/classes/model/user.php
+V 69
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/user.php
 END
 tree.php
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svn/levjke_kohanablog/!svn/ver/19/application/classes/model/tree.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/tree.php
 END
 comment.php
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svn/levjke_kohanablog/!svn/ver/20/application/classes/model/comment.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/comment.php
 END
 useful.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svn/levjke_kohanablog/!svn/ver/13/application/classes/model/useful.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/useful.php
 END
 myuser.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svn/levjke_kohanablog/!svn/ver/19/application/classes/model/myuser.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/myuser.php
 END
 register.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/levjke_kohanablog/!svn/ver/22/application/classes/model/register.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/register.php
 END
 userchange.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/levjke_kohanablog/!svn/ver/8/application/classes/model/userchange.php
+V 75
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/userchange.php
 END
 regcode.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/levjke_kohanablog/!svn/ver/7/application/classes/model/regcode.php
+V 72
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/regcode.php
 END
 makecode.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/levjke_kohanablog/!svn/ver/22/application/classes/model/makecode.php
+/svn/levjke_kohanablog/!svn/ver/23/application/classes/model/makecode.php
 END

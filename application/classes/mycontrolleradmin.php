@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 
 class Mycontrolleradmin extends Controller_Template {
-
+	//контроллер не позволяющий заходить в администраторскую не админам
 	public function before()	
 	{
 		$session = Session::instance();

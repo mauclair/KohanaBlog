@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/levjke_kohanablog/!svn/ver/1/system/config
+END
+mimes.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/levjke_kohanablog/!svn/ver/1/system/config/mimes.php
+END
+userguide.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/levjke_kohanablog/!svn/ver/1/system/config/userguide.php
+END
+user_agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/levjke_kohanablog/!svn/ver/1/system/config/user_agents.php
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/levjke_kohanablog/!svn/ver/1/system/config/session.php
+END
+encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/levjke_kohanablog/!svn/ver/1/system/config/encrypt.php
+END
+curl.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/levjke_kohanablog/!svn/ver/2/system/config/curl.php
+END
+inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/levjke_kohanablog/!svn/ver/2/system/config/inflector.php
+END
+credit_cards.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/levjke_kohanablog/!svn/ver/1/system/config/credit_cards.php
+END
