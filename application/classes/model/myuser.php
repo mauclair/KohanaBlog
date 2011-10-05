@@ -19,7 +19,6 @@ class Model_Myuser extends ORM
 			return array(
 				'username' => array(
 				array('not_empty'),
-				array('email'),
 				array(array($this, 'username_unique')),
 				),
 			);    
